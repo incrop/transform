@@ -1,4 +1,4 @@
 [package]
-name = "base64"
+name = "transform"
 version = "0.1.0"
-authors = ["Dmitry Starostin <incrop@yandex-team.ru>"]
+authors = ["Dmitry Starostin <incrop@gmail.com>"]
